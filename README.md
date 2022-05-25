@@ -9,7 +9,7 @@ this project is part of a bigger project wich is capturing the retina and classi
  
  so we developed this algorithm to solve these problems 
  # Algorithm architecture:
- * converting the image to grey scale                   .   ![fgfgfgfgbfbfbfbgfbfbf](https://user-images.githubusercontent.com/103740764/170370551-ea116b8b-ac7e-4b17-bf01-711a8afa0563.PNG)
+ * converting the image to grey scale                 
 
  * applying gaussian blur (which is a low pass filter for smoothing the image)
  * applying morphological operations like (dilate and opening) was tried but they were removed as they didn't give best results 
@@ -19,3 +19,6 @@ this project is part of a bigger project wich is capturing the retina and classi
  * finding the contours and sorting them out to take the biggest contour as the pupil
  * applying elipse fitting on the pupil
  * getting the center of the pupil 
+
+ # Output of each stage:
+ ![output](https://user-images.githubusercontent.com/103740764/170370921-dfceb19f-95ff-43d1-a324-0bac93a39a26.PNG)
