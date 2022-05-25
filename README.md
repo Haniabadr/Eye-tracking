@@ -1,1 +1,3 @@
 # Eye-tracking
+
+## Algorithm architecture
