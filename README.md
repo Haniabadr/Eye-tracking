@@ -9,7 +9,7 @@ this project is part of a bigger project wich is capturing the retina and classi
  
  so we developed this algorithm to solve these problems 
  # Algorithm architecture:
- * converting the image to grey scale                      ![fgfgfgfgbfbfbfbgfbfbf](https://user-images.githubusercontent.com/103740764/170370551-ea116b8b-ac7e-4b17-bf01-711a8afa0563.PNG)
+ * converting the image to grey scale                   .   ![fgfgfgfgbfbfbfbgfbfbf](https://user-images.githubusercontent.com/103740764/170370551-ea116b8b-ac7e-4b17-bf01-711a8afa0563.PNG)
 
  * applying gaussian blur (which is a low pass filter for smoothing the image)
  * applying morphological operations like (dilate and opening) was tried but they were removed as they didn't give best results 
