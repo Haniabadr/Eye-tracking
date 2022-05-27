@@ -1,7 +1,7 @@
 # Eye-tracking
 
 # Objective:
-this project is part of a bigger project wich is capturing the retina and classifying these images in to healthy,diabetic or glaucomatic in order to do this we need to track the eye movement so that the camera capturing the retina would be able to track the pupil ,to achieve this we developed this pupil tracking algorithm . <br>
+this project is part of a bigger project which is capturing the retina and classifying these images in to healthy,diabetic or glaucomatic in order to do this we need to track the eye movement so that the camera capturing the retina would be able to track the pupil ,to achieve this we developed this pupil tracking algorithm . <br>
  # Challenges  :
  * Eye glints
  * Eye lashes
