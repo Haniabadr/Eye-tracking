@@ -20,5 +20,5 @@ this project is part of a bigger project which is capturing the retina and class
  * applying elipse fitting on the pupil
  * getting the center of the pupil 
 
- # Output of each stage:
+ # Results of each stage:
  ![output](https://user-images.githubusercontent.com/103740764/170370921-dfceb19f-95ff-43d1-a324-0bac93a39a26.PNG)
