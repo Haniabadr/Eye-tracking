@@ -22,3 +22,6 @@ this project is part of a bigger project which is capturing the retina and class
 
  # Results of each stage:
  ![output](https://user-images.githubusercontent.com/103740764/170370921-dfceb19f-95ff-43d1-a324-0bac93a39a26.PNG)
+ 
+ # Instructions:
+ * To try the code with the data uploaded in the data folder all you need to do is to download the data at the same folder where you downloaded the code file then you'll insert the image name at line 90 ------> k=start.takepic("") then run the code, first the original image will be displayed press ESC then the blured image will be displayed also press ESC then the image with fitted elipse and center detected will appear .
